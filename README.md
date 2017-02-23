@@ -1,7 +1,7 @@
-# www.sheinh.org
-This repository uses the Github Pages feature to generate a website to eventually be pointed to by www.sheinh.org. For now it's available [here](https://sunset-hill.github.io/www.sheinh.org/)
-Hello
+This GitHub "repo" uses the Github Pages feature to generate a website from this repo's /docs/ folder.
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+A few moments after each update of (the master branch) any file in the /docs/ folder, the site is regenerated.
 
-(from https://guides.github.com/features/mastering-markdown/)
+The regenerated site is available [here](https://sunset-hill.github.io/www.sheinh.org/).
+
+The last step in making this site go live will be to point www.sheinh.org to the same location. (This will require working with Bill.)
