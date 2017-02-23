@@ -1,6 +1,6 @@
 Hello
 
-[some other page](https://sunset-hill.github.io/www.sheinh.org/another-page)
+[some other page](https://sunset-hill.github.io/www.sheinh.org/another-page.html)
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
